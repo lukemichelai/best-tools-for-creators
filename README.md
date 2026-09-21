@@ -70,6 +70,8 @@ What the apps do, across every device:
 
 **[Descript](https://www.descript.com):** edit video by editing its transcript, remove filler words in one click. `Freemium` · macOS, Windows, Web
 
+**[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio):** local-first toolkit for agent-driven composition, editing, transcription and captions. `Open source` · macOS, Windows, Linux
+
 **[LumaFusion](https://luma-touch.com):** serious multitrack editing on iPad and iPhone. `Paid` · iPadOS, iOS, Android
 
 **[Kdenlive](https://kdenlive.org):** mature multitrack editor, proxy workflow included. `Open source` · macOS, Windows, Linux
