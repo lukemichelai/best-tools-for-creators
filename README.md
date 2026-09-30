@@ -80,6 +80,8 @@ What the apps do, across every device:
 
 **[Clipchamp](https://clipchamp.com):** browser editor from Microsoft, good enough for quick cuts. `Freemium` · Web, Windows
 
+**[ReelWorkshop](https://reelworkshop.com):** browser compilation maker for short-form — import your clips, arrange/trim, preview, export vertical 9:16 H.264. Edit free; finished export on Starter. `Freemium` · Web
+
 ## Short form editing and repurposing
 
 **[Opus Clip](https://www.opus.pro):** turns a long video into vertical clips and ranks them by predicted performance. `Freemium` · Web
