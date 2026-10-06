@@ -246,6 +246,8 @@ What the apps do, across every device:
 
 ## Analytics and research
 
+**[AcquistareFollower.it Engagement Calculator (Italian)](https://acquistarefollower.it/tools/engagement-rate):** calculate likes plus comments against a selected followers, reach or views basis from manual values, without connecting a creator account. `Free` · Web
+
 **[vidIQ](https://vidiq.com):** YouTube keyword research, competitor tracking and title scoring. `Freemium` · Web, browser extension
 
 **[TubeBuddy](https://www.tubebuddy.com):** bulk channel management and A/B testing for thumbnails. `Freemium` · Web, browser extension
