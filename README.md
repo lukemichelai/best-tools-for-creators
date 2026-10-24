@@ -252,6 +252,8 @@ What the apps do, across every device:
 
 **[Social Blade](https://socialblade.com):** public growth statistics for channels and accounts. `Freemium` · Web
 
+**[tkmetrics](https://tkmetrics.com):** finds TikTok creators by average views and engagement rate on their recent videos, with a free TikTok money calculator. `Freemium` · Web
+
 **[Google Trends](https://trends.google.com):** what people are searching for, by region and over time. `Free` · Web
 
 **[AnswerThePublic](https://answerthepublic.com):** the questions people type around a topic, useful for video titles. `Freemium` · Web
