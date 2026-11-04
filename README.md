@@ -272,6 +272,8 @@ What the apps do, across every device:
 
 **[Ko-fi](https://ko-fi.com):** tips, memberships and shop with no platform cut on the free plan. `Freemium` · Web
 
+**[Flirt Social](https://t-social.me/creators/):** Telegram Mini App with short clips, trending creators and AI chat characters, 18+. `Free` · Web, Telegram
+
 **[Stripe](https://stripe.com):** payments when you want to run checkout yourself. `Per transaction` · Web
 
 ## Link in bio and simple sites
